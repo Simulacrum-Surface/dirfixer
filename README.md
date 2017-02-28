@@ -3,7 +3,7 @@
 </br>
 !WARNING!</br>
 This is made for UNIX/LINUX. Never tested this on windows. </br>
-Pyhton3.6 used.</br>
+Python 3.6 used.</br>
 /!WARNING!</br>
 </br>
 This is a pretty simple script i created to fix some bad downloadmanagement. The tool does nothing else than taking a target directory (by userinput) and search inside for subdirs to move all files out of them to the target DIR. 
