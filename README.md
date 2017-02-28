@@ -15,8 +15,8 @@ Your target DIR, specified by ./dir_fixer.py [PATH/TO/DIR] probably looks like t
 
 PATH/TO/DIR
 |
-|--SUBDIR001
-   |- file 1
+|--SUBDIR001 \n
+   |- file 1 </br>
    |- file 2
    |- file 3
 |
