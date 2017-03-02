@@ -38,4 +38,4 @@ PATH/TO/DIR</br>
 </br>
 As you may see, the subDIRs are going to be (!)deleted(!). I'll probably add some more functions to make this script more adjustable.</br>
 </br>
-But it works. Greetings :)</br></br></br></br></br>KnownBugs:</br></br>- Script stops when a filename is already existing. Going to add a exception for that.
+But it works. Greetings :)</br></br></br></br></br>KnownBugs:</br></br>- Script stops when a filename is already existing. Going to add a exception for that. -- FIXED --
