@@ -30,7 +30,7 @@ def main():
     else:
         path = "".join((path[0], "/"))
         #TODO Check if path is existing
-        if os.path.isdir(path) == False:ne :
+        if os.path.isdir(path) == False:
             print("[-] The given path does not lead to a directory.\nExiting...")
             exit(0)
         else:
